@@ -34,9 +34,3 @@ Each one of the phases of the experiment is located in one file, as follows:
 - **"aioMaker.m"** contains all of the instructions of the previous files in one script.
 
 - **"README.md"** this file.
-
-
-## Citation
-
-If you use this code and/or article in your research, please cite as:
-
